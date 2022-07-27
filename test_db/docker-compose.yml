@@ -13,4 +13,12 @@ services:
       - ./docker/cnf/my.cnf:/etc/mysql/conf.d/my.cnf
       - ./mysql/sql:/docker-entrypoint-initdb.d
     ports:
+<<<<<<< HEAD
       - "3306:3306"
+=======
+<<<<<<< HEAD
+      - "3308:3308"
+=======
+      - "3306:3306"
+>>>>>>> b03aeae (test db sample)
+>>>>>>> d9886ca8d0984bfe80f49041a45bf52715655301
