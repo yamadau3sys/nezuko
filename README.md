@@ -1,2 +1,0 @@
-# nezuko
-business juku repository
